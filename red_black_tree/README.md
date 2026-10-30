@@ -22,6 +22,7 @@ deletion run in `O(log n)`.
 | `rb_trees.h` | Data structures and prototypes |
 | `0-rb_tree_node.c` | `rb_tree_node`: creates a Red-Black tree node |
 | `1-rb_tree_is_valid.c` | `rb_tree_is_valid`: checks if a binary tree is a valid Red-Black tree |
+| `2-rb_tree_insert.c` | `rb_tree_insert`: inserts a value in a Red-Black tree |
 
 ## Compilation
 
